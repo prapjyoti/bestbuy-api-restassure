@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.bestbuy.model.bestbuytest.ProductTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 935.491 s <<< FAILURE! - in com.bestbuy.model.bestbuytest.ProductTest
+getAllProductInfo(com.bestbuy.model.bestbuytest.ProductTest)  Time elapsed: 930.485 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+	at com.bestbuy.model.bestbuytest.ProductTest.getAllProductInfo(ProductTest.java:16)
+
